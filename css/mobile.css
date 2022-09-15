@@ -148,11 +148,9 @@ i.fa-search{
 .con{
     margin: 0px auto;
     display: grid;
-    width: 100%;
-    max-width: 600px;
     padding: 0px 1%;
     box-sizing: border-box;
-    grid-template-columns: auto;
+    grid-template-columns: 100%;
     grid-template-areas: 
     "item"
     "brand"
